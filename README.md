@@ -3,6 +3,7 @@ ProgrammixV: Python Eğitimi Ders Notları ve Kaynakları
 Bu repo, Hacettepe Üniversitesi 2024-2025 akademik yılı boyunca IEEE Hacettepe çatısı altında gerçekleştirilen ProgrammixV etkinliği kapsamında verdiğim 4 haftalık Python eğitiminin tüm içeriklerini barındırmaktadır. Bu eğitim, temel programlama kavramlarından ileri Python özelliklerine kadar geniş bir yelpazede bilgi sunmayı hedeflemiştir.
 
 Bu repoda neler bulabilirsiniz?
+
 Ders Notları: Eğitim süresince kullanılan detaylı ders notları ve sunumlar.
 Ödevler: Katılımcıların öğrendiklerini pekiştirmesi için hazırlanan ödev dosyaları.
 Kaynak Kodlar: Eğitimde ele alınan örnek projeler ve kodlar.
