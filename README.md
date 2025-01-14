@@ -34,8 +34,7 @@ Bu eğitimde aşağıdaki başlıklara odaklanılmıştır:
 
 Bu repo, eğitimi geliştirmek veya genişletmek isteyen herkesin katkılarına açıktır. Sorularınızı, önerilerinizi ve geri bildirimlerinizi paylaşmaktan çekinmeyin.
 
-> **İletişim:** Herhangi bir sorunuz varsa benimle [LinkedIn](#) veya [e-posta](mailto:#) üzerinden iletişime geçebilirsiniz.  
-> **Not:** Linklerinizi eklemek için `#` ile belirtilen yerleri düzenleyin.
+> **İletişim:** Herhangi bir sorunuz varsa benimle [LinkedIn](https://www.linkedin.com/in/k-%C3%A7a%C4%9Fr%C4%B1-kuzaytepe-b23a21225/) veya [e-posta](mailto:kuzaytepecagri@gmail.com) üzerinden iletişime geçebilirsiniz.  
 
 ---
 
